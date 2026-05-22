@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Assignment2</string>
+
+    <string name="title_text">
+        Phone Orientation Estimator
+    </string>
+
+    <string name="accelerometer_title">
+        Accelerometer Data
+    </string>
+
+    <string name="accelerometer_wait">
+        Waiting for accelerometer data…
+    </string>
+
+    <string name="gyroscope_title">
+        Gyroscope Data
+    </string>
+
+    <string name="gyroscope_wait">
+        Waiting for gyroscope data…
+    </string>
+
+    <string name="orientation_title">
+        Orientation Status
+    </string>
+
+    <string name="orientation_unknown">
+        Unknown
+    </string>
+
+</resources>
